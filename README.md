@@ -2,8 +2,8 @@
 📊 **Extracting, Cleaning, Visualizing, and Analyzing 700,000+ Egyptian Students' Results**
 
   
-
-![Thanawya Amma Dashboard](dashboard_page1.png)
+In English
+![Thanawya Amma Dashboard](assets/dashboard_page1_English.png)
 
 ---
 
